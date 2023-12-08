@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.Web_App", "BookStore.Web_App\BookStore.Web_App.csproj", "{9B76E0B8-9689-47F6-9EE3-10D29A9DB3D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API_GATEWAY", "API_GATEWAY", "{67408FA5-D460-48B1-8302-C82AA66555C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common_Helpers", "Common_Helpers", "{363E6042-7F80-4000-B1CC-98AFF046EECE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BookStore_WebApp", "BookStore_WebApp", "{A5B79643-2A6F-418F-A2B3-DADF38F52F44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroServices", "MicroServices", "{AFD980C9-8AAE-4D8E-8E74-1786871A3D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth", "Auth\Auth.csproj", "{451DC3CA-0F57-4957-9BFC-E22B094BD628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateWay", "ApiGateWay\ApiGateWay.csproj", "{75AE0906-B347-40E4-B2C8-2924C457753F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B76E0B8-9689-47F6-9EE3-10D29A9DB3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B76E0B8-9689-47F6-9EE3-10D29A9DB3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B76E0B8-9689-47F6-9EE3-10D29A9DB3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B76E0B8-9689-47F6-9EE3-10D29A9DB3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451DC3CA-0F57-4957-9BFC-E22B094BD628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451DC3CA-0F57-4957-9BFC-E22B094BD628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451DC3CA-0F57-4957-9BFC-E22B094BD628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451DC3CA-0F57-4957-9BFC-E22B094BD628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75AE0906-B347-40E4-B2C8-2924C457753F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75AE0906-B347-40E4-B2C8-2924C457753F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75AE0906-B347-40E4-B2C8-2924C457753F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75AE0906-B347-40E4-B2C8-2924C457753F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B76E0B8-9689-47F6-9EE3-10D29A9DB3D1} = {A5B79643-2A6F-418F-A2B3-DADF38F52F44}
+		{451DC3CA-0F57-4957-9BFC-E22B094BD628} = {AFD980C9-8AAE-4D8E-8E74-1786871A3D2E}
+		{75AE0906-B347-40E4-B2C8-2924C457753F} = {67408FA5-D460-48B1-8302-C82AA66555C3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69729D4-7D87-47EC-AB57-77E2E4A8B231}
+	EndGlobalSection
+EndGlobal
