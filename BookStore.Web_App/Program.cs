@@ -1,4 +1,5 @@
 using BookStore.Web_App.Models;
+using EntityBase;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,7 +11,7 @@ builder.Services.AddSession();
 
 var provider = builder.Services.BuildServiceProvider();
 var config = provider.GetRequiredService<IConfiguration>();
-builder.Services.AddDbContext<OnlineBookStoreContext>(item => item.UseSqlServer(config.GetConnectionString("DB_Conn_String")));
+builder.Services.AddDbContextPool<AppDbContext>(item => item.UseSqlServer(config.GetConnectionString("DB_Conn_String")));
 
 var app = builder.Build();
 
@@ -31,6 +32,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Login}/{id?}");
 
 app.Run();

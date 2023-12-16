@@ -497,3 +497,5 @@ C:\Users\Divesh Patil\Documents\GitHub\BookStore\BookStore.Web_App\obj\Debug\net
 C:\Users\Divesh Patil\Documents\GitHub\BookStore\BookStore.Web_App\obj\Debug\net6.0\BookStore.Web_App.pdb
 C:\Users\Divesh Patil\Documents\GitHub\BookStore\BookStore.Web_App\obj\Debug\net6.0\BookStore.Web_App.genruntimeconfig.cache
 C:\Users\Divesh Patil\Documents\GitHub\BookStore\BookStore.Web_App\obj\Debug\net6.0\ref\BookStore.Web_App.dll
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\BookStore.Web_App\bin\Debug\net6.0\EntityBase.dll
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\BookStore.Web_App\bin\Debug\net6.0\EntityBase.pdb

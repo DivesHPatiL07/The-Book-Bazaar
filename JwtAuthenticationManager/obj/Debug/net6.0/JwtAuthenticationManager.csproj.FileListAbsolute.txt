@@ -1,0 +1,16 @@
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.sourcelink.json
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CopyComplete
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.dll
+C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.pdb
