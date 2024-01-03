@@ -1,5 +1,6 @@
 ﻿using EntityBase;
 using JwtAuthenticationManager.Models;
+using Microsoft.Data.SqlClient;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
@@ -26,36 +27,44 @@ namespace JwtAuthenticationManager
                 return null;
 
             /*validation*/
-            var userAccount = context.Users.Where(x => x.Username == authenticationRequest.UserName && x.Password == authenticationRequest.Password).FirstOrDefault();
-            if (userAccount == null) return null;
-            var tokenExpireTimeStamp = DateTime.Now.AddMinutes(JWT_TOKEN_VALIDITY_MINS);
-            var tokenKey = Encoding.ASCII.GetBytes(JWT_SECURITY_KEY);
-            var claimsIdentity = new ClaimsIdentity(new List<Claim>
+            using (var connection = new SqlConnection("Server=LAPTOP-GSDBM2F1\\SQLEXPRESS; database=OnlineBookStore; trusted_connection=true;"))
+            {
+                connection.Open();
+                // Use the connection here
+                var userAccount = context.Users.Where(x => x.Username == authenticationRequest.UserName && x.Password == authenticationRequest.Password).FirstOrDefault();
+                if (userAccount == null) return null;
+                var tokenExpireTimeStamp = DateTime.Now.AddMinutes(JWT_TOKEN_VALIDITY_MINS);
+                var tokenKey = Encoding.ASCII.GetBytes(JWT_SECURITY_KEY);
+                var claimsIdentity = new ClaimsIdentity(new List<Claim>
             {
                 new Claim(JwtRegisteredClaimNames.Name, authenticationRequest.UserName),
                 new Claim(ClaimTypes.Role, userAccount.Role)
             });
 
-            var signingCredentials = new SigningCredentials(
-                new SymmetricSecurityKey(tokenKey),
-                SecurityAlgorithms.HmacSha256Signature);
+                var signingCredentials = new SigningCredentials(
+                    new SymmetricSecurityKey(tokenKey),
+                    SecurityAlgorithms.HmacSha256Signature);
 
-            var securityTokenDescriptor = new Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor
-            {
-                Subject = claimsIdentity,
-                Expires = tokenExpireTimeStamp,
-                SigningCredentials = signingCredentials
-            };
+                var securityTokenDescriptor = new Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor
+                {
+                    Subject = claimsIdentity,
+                    Expires = tokenExpireTimeStamp,
+                    SigningCredentials = signingCredentials
+                };
 
-            var JwtSecurityTokenHandler = new JwtSecurityTokenHandler();
-            var securityToken = JwtSecurityTokenHandler.CreateToken(securityTokenDescriptor);
-            var token = JwtSecurityTokenHandler.WriteToken(securityToken);
-            return new AuthenticationResponse
-            {
-                UserName = authenticationRequest.UserName,
-                ExpiresIn = (int)tokenExpireTimeStamp.Subtract(DateTime.Now).TotalSeconds,
-                JwtToken = token
-            };
+                var JwtSecurityTokenHandler = new JwtSecurityTokenHandler();
+                var securityToken = JwtSecurityTokenHandler.CreateToken(securityTokenDescriptor);
+                var token = JwtSecurityTokenHandler.WriteToken(securityToken);
+                return new AuthenticationResponse
+                {
+                    UserName = authenticationRequest.UserName,
+                    ExpiresIn = (int)tokenExpireTimeStamp.Subtract(DateTime.Now).TotalSeconds,
+                    JwtToken = token
+                };
+            } // The connection is automatically closed and disposed of at the end of the using block
+
+            
+            
         }
     }
 }

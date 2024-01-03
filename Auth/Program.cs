@@ -15,6 +15,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<AppDbContext>(options =>
                options.UseSqlServer("Server=LAPTOP-GSDBM2F1\\SQLEXPRESS; database=OnlineBookStore; trusted_connection=true;"));
+//builder.Services.AddSingleton<JwtTokenHandler>();
+
 builder.Services.AddControllers();
 
 var app = builder.Build();
