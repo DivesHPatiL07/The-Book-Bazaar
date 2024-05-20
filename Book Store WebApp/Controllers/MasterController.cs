@@ -66,7 +66,7 @@ namespace Book_Store_WebApp.Controllers
                 {
                     var readTask = result.Content.ReadFromJsonAsync<ApiReturnBase>();
 
-                    rtnValues = Newtonsoft.Json.JsonConvert.DeserializeObject<BookListDataModel>(readTask.Result.Data.ToString() ??) ?? new BookListDataModel();
+                    rtnValues = Newtonsoft.Json.JsonConvert.DeserializeObject<BookListDataModel>(readTask.Result.Data.ToString() ?? "") ?? new BookListDataModel();
 
                 }
                 else
