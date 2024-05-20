@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "Author";
+}
+
+<h1>Author</h1>
+
+<table id="table"
+       data-toggle="table"
+       data-height="460"
+       data-ajax="ajaxRequest"
+       data-search="true"
+       data-side-pagination="server"
+       data-pagination="true">
+    <thead>
+        <tr>
+            <th data-field="id">ID</th>
+            <th data-field="name">Author Name</th>
+            <th data-field="bio">Bio</th>
+        </tr>
+    </thead>
+</table>
+
+@section Scripts{
+    <script>
+        function ajaxRequest(params) {
+           
+            var url = SiteUrl + "Master/GetAuthorList";
+            //var url = 'https://examples.wenzhixin.net.cn/examples/bootstrap_table/data'
+            $.get(url + '?' + $.param(params.data)).then(function (res) {
+                debugger;
+                params.success(res)
+            })
+        }
+        // $(document).ready(function () {
+        //     debugger;
+        //     var URL = SiteUrl + "Master/GetAuthorList";
+        //     $.post(URL, function (data) {
+        //         debugger;
+        //         alert("Data: " + JSON.stringify(data));
+        //     });
+        //     // $.ajax({
+        //     //     type: "POST",
+        //     //     url: SiteUrl + "Master/GetAuthorList", 
+        //     //     success: function (result) {
+        //     //         debugger;
+        //     //     }
+        //     // });
+        // });
+
+    </script>
+}
+

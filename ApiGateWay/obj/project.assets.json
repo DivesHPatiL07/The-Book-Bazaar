@@ -155,7 +155,7 @@
           }
         }
       },
-      "Ocelot/22.0.0": {
+      "Ocelot/22.0.1": {
         "type": "package",
         "dependencies": {
           "FluentValidation": "11.8.0",
@@ -450,10 +450,10 @@
         "newtonsoft.json.bson.nuspec"
       ]
     },
-    "Ocelot/22.0.0": {
-      "sha512": "PG5Gh8uuoh+iqGxLEy9URSnPhosbCbFM33vcqPfItokW3PubCaELT3rM3I6t5bWUXCHBKLQmf/UUqr0CmZbxfQ==",
+    "Ocelot/22.0.1": {
+      "sha512": "thTMqIUu2Olj8n9YXzAtds8Hr5gK6IA3Gjrl4XGjebEpe7qRpigcsJ2dKzXcXqn7KIH7lpS38sjCst15HdYwQw==",
       "type": "package",
-      "path": "ocelot/22.0.0",
+      "path": "ocelot/22.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -463,7 +463,7 @@
         "lib/net7.0/Ocelot.xml",
         "lib/net8.0/Ocelot.dll",
         "lib/net8.0/Ocelot.xml",
-        "ocelot.22.0.0.nupkg.sha512",
+        "ocelot.22.0.1.nupkg.sha512",
         "ocelot.nuspec"
       ]
     },
@@ -496,7 +496,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Ocelot >= 22.0.0"
+      "Ocelot >= 22.0.1"
     ]
   },
   "packageFolders": {
@@ -505,11 +505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\ApiGateWay\\ApiGateWay.csproj",
+      "projectUniqueName": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\ApiGateWay\\ApiGateWay.csproj",
       "projectName": "ApiGateWay",
-      "projectPath": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\ApiGateWay\\ApiGateWay.csproj",
+      "projectPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\ApiGateWay\\ApiGateWay.csproj",
       "packagesPath": "C:\\Users\\Divesh Patil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\ApiGateWay\\obj\\",
+      "outputPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\ApiGateWay\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Divesh Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -532,6 +532,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -540,7 +545,7 @@
         "dependencies": {
           "Ocelot": {
             "target": "Package",
-            "version": "[22.0.0, )"
+            "version": "[22.0.1, )"
           }
         },
         "imports": [
@@ -562,7 +567,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,16 +1,58 @@
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.sourcelink.json
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CopyComplete
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.pdb
+C:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+C:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\Data_Models.dll
+C:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.dll
+C:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.pdb
+C:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\Data_Models.pdb
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CopyComplete
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
+C:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\View_Models.dll
+C:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\View_Models.pdb
+D:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+D:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+D:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+D:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\Data_Models.dll
+D:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.dll
+D:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\View_Models.dll
+D:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.pdb
+D:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\Data_Models.pdb
+D:\Divesh dev_Copy\JwtAuthenticationManager\bin\Debug\net6.0\View_Models.pdb
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthe.27E6DA6D.Up2Date
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+D:\Divesh dev_Copy\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\bin\Debug\net6.0\Data_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\bin\Debug\net6.0\View_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\bin\Debug\net6.0\EntityBase.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\bin\Debug\net6.0\Data_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\bin\Debug\net6.0\View_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.sourcelink.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthe.27E6DA6D.Up2Date
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll

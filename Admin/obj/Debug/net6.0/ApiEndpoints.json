@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Admin.Controllers.MasterController",
+    "Method": "GetBookList",
+    "RelativePath": "api/Master/GetBookList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "para",
+        "Type": "View_Models.GetCustomListParameterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Admin.Controllers.MasterController",
+    "Method": "SaveBook",
+    "RelativePath": "api/Master/SaveBook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SaveData",
+        "Type": "Data_Models.BookSaveModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

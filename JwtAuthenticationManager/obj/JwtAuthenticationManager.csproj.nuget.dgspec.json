@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj": {}
+    "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\EntityBase\\EntityBase.csproj": {
+    "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\Data_Models\\Data_Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\EntityBase\\EntityBase.csproj",
-        "projectName": "EntityBase",
-        "projectPath": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\EntityBase\\EntityBase.csproj",
+        "projectUniqueName": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\Data_Models\\Data_Models.csproj",
+        "projectName": "Data_Models",
+        "projectPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\Data_Models\\Data_Models.csproj",
         "packagesPath": "C:\\Users\\Divesh Patil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\EntityBase\\obj\\",
+        "outputPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\Data_Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Divesh Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,27 +34,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.25, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.25, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.25, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -71,18 +60,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj": {
+    "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\EntityBase\\EntityBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
-        "projectName": "JwtAuthenticationManager",
-        "projectPath": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
+        "projectUniqueName": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\EntityBase\\EntityBase.csproj",
+        "projectName": "EntityBase",
+        "projectPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\EntityBase\\EntityBase.csproj",
         "packagesPath": "C:\\Users\\Divesh Patil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\JwtAuthenticationManager\\obj\\",
+        "outputPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\EntityBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Divesh Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +88,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\EntityBase\\EntityBase.csproj": {
-                "projectPath": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\EntityBase\\EntityBase.csproj"
+              "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\Data_Models\\Data_Models.csproj": {
+                "projectPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\Data_Models\\Data_Models.csproj"
+              },
+              "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\View_Models\\View_Models.csproj": {
+                "projectPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\View_Models\\View_Models.csproj"
               }
             }
           }
@@ -109,27 +101,34 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "Dapper": {
               "target": "Package",
-              "version": "[6.0.25, )"
+              "version": "[2.1.28, )"
             },
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.26, )"
             },
-            "Microsoft.IdentityModel.Tokens": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[6.0.26, )"
             },
-            "System.IdentityModel.Tokens.Jwt": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[6.0.26, )"
             }
           },
           "imports": [
@@ -148,7 +147,153 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
+        "projectName": "JwtAuthenticationManager",
+        "projectPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
+        "packagesPath": "C:\\Users\\Divesh Patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\JwtAuthenticationManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Divesh Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\EntityBase\\EntityBase.csproj": {
+                "projectPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\EntityBase\\EntityBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.35.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.35.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\View_Models\\View_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\View_Models\\View_Models.csproj",
+        "projectName": "View_Models",
+        "projectPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\View_Models\\View_Models.csproj",
+        "packagesPath": "C:\\Users\\Divesh Patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\View_Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Divesh Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

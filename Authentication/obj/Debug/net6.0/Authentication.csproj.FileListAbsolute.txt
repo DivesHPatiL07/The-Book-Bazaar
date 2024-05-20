@@ -1,0 +1,370 @@
+D:\Book Store Project\Authentication\bin\Debug\net6.0\appsettings.Development.json
+D:\Book Store Project\Authentication\bin\Debug\net6.0\appsettings.json
+D:\Book Store Project\Authentication\bin\Debug\net6.0\Authentication.exe
+D:\Book Store Project\Authentication\bin\Debug\net6.0\Authentication.deps.json
+D:\Book Store Project\Authentication\bin\Debug\net6.0\Authentication.runtimeconfig.json
+D:\Book Store Project\Authentication\bin\Debug\net6.0\Authentication.dll
+D:\Book Store Project\Authentication\bin\Debug\net6.0\Authentication.pdb
+D:\Book Store Project\Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Book Store Project\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Book Store Project\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Book Store Project\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.csproj.AssemblyReference.cache
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfoInputs.cache
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfo.cs
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.csproj.CoreCompileInputs.cache
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\Book Store Project\Authentication\obj\Debug\net6.0\staticwebassets.build.json
+D:\Book Store Project\Authentication\obj\Debug\net6.0\staticwebassets.development.json
+D:\Book Store Project\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Book Store Project\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication.props
+D:\Book Store Project\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+D:\Book Store Project\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+D:\Book Store Project\Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Book Store Project\Authentication\obj\Debug\net6.0\scopedcss\bundle\Authentication.styles.css
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.csproj.CopyComplete
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.dll
+D:\Book Store Project\Authentication\obj\Debug\net6.0\refint\Authentication.dll
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.pdb
+D:\Book Store Project\Authentication\obj\Debug\net6.0\Authentication.genruntimeconfig.cache
+D:\Book Store Project\Authentication\obj\Debug\net6.0\ref\Authentication.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\appsettings.Development.json
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\appsettings.json
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Authentication.exe
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Authentication.deps.json
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Authentication.runtimeconfig.json
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Authentication.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Authentication.pdb
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.csproj.AssemblyReference.cache
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfoInputs.cache
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfo.cs
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.csproj.CoreCompileInputs.cache
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\staticwebassets.build.json
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\staticwebassets.development.json
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication.props
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\scopedcss\bundle\Authentication.styles.css
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.csproj.CopyComplete
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.dll
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\refint\Authentication.dll
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.pdb
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\Authentication.genruntimeconfig.cache
+D:\Book Store Project\Demo\Authentication\obj\Debug\net6.0\ref\Authentication.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Data_Models.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\EntityBase.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\JwtAuthenticationManager.dll
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\EntityBase.pdb
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+D:\Book Store Project\Demo\Authentication\bin\Debug\net6.0\Data_Models.pdb
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\appsettings.Development.json
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\appsettings.json
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.exe
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.deps.json
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.runtimeconfig.json
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.pdb
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Data_Models.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\EntityBase.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\EntityBase.pdb
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Data_Models.pdb
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.csproj.AssemblyReference.cache
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfoInputs.cache
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfo.cs
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication.props
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\scopedcss\bundle\Authentication.styles.css
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.csproj.CopyComplete
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.dll
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\refint\Authentication.dll
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.pdb
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.genruntimeconfig.cache
+C:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\ref\Authentication.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Dapper.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\View_Models.dll
+C:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\View_Models.pdb
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\appsettings.Development.json
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\appsettings.json
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.exe
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.deps.json
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.runtimeconfig.json
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Authentication.pdb
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Dapper.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Data_Models.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\DbHelper.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\EntityBase.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\JwtAuthenticationManager.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\View_Models.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\WebApp_Common_Helper.dll
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\DbHelper.pdb
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\EntityBase.pdb
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\WebApp_Common_Helper.pdb
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\Data_Models.pdb
+D:\Divesh dev_Copy\Authentication\bin\Debug\net6.0\View_Models.pdb
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.csproj.AssemblyReference.cache
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfoInputs.cache
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfo.cs
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.csproj.CoreCompileInputs.cache
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets.build.json
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets.development.json
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication.props
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\scopedcss\bundle\Authentication.styles.css
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authenti.5C4D8D91.Up2Date
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.dll
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\refint\Authentication.dll
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.pdb
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\Authentication.genruntimeconfig.cache
+D:\Divesh dev_Copy\Authentication\obj\Debug\net6.0\ref\Authentication.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\appsettings.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Authentication.exe
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Authentication.deps.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Authentication.runtimeconfig.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Authentication.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Authentication.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Dapper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Data_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\DbHelper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\EntityBase.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\JwtAuthenticationManager.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\View_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\WebApp_Common_Helper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\DbHelper.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\EntityBase.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\WebApp_Common_Helper.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\Data_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\bin\Debug\net6.0\View_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfo.cs
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.sourcelink.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication.props
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\scopedcss\bundle\Authentication.styles.css
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authenti.5C4D8D91.Up2Date
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\refint\Authentication.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\Authentication.genruntimeconfig.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Authentication\obj\Debug\net6.0\ref\Authentication.dll

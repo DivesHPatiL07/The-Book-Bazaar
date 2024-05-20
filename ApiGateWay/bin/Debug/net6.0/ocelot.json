@@ -1,31 +1,37 @@
 {
   "Routes": [
     {
-      "UpstreamPathTemplate": "/Customer/Users",
-      "UpstreamHttpMethod": [ "Get" ],
-      "DownstreamScheme": "https",
-      "DownstreamPathTemplate": "/api/Customer/GetCustomers",
-      "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 7016
-        }
-      ]
-    },
-    {
-      "UpstreamPathTemplate": "/Account/Authenticate",
-      "UpstreamHttpMethod": [ "Post" ],
-      "DownstreamScheme": "https",
+      "UpstreamPathTemplate": "/Auth/Authenticate",
+      "UpstreamHttpMethod": [ "POST" ],
       "DownstreamPathTemplate": "/api/Account/Authenticate",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7245
+          "Port": 7211
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/master/GetBookList",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/Master/GetBookList",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7059
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/master/SaveBook",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/Master/SaveBook",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7059
         }
       ]
     }
-  ],
-  "GlobalConfiguration": {
-    "BaseUrl":  "http://localhost:8000"
-  }
+  ]
 }

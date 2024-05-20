@@ -1,0 +1,115 @@
+﻿<div class="card form-card">
+    <div class="card-body">
+        <h5 class="card-title">Add Book Details</h5>
+
+        <!-- Multi Columns Form -->
+        <form class="row g-3 needs-validation saveBookForm" novalidate>
+            <div class="col-md-3">
+                <label for="inputTitleOfBook" class="form-label">Title of Book</label>
+                <input type="text" class="form-control" id="inputTitleOfBook" required>
+                <div class="invalid-feedback">Please enter Title of Book.</div>
+            </div>
+            <div class="col-md-3">
+                <label for="ddlAuthor" class="form-label">Author</label>
+                <input type="text" class="form-control" id="ddlAuthor" required>
+                <div class="invalid-feedback">Please select author.</div>
+            </div>
+            <div class="col-md-3">
+                <label for="inputGenre" class="form-label">Genre</label>
+                <input type="text" class="form-control" id="inputGenre">
+                <div class="invalid-feedback">Please enter Genre.</div>
+            </div>
+            <div class="col-md-3">
+                <label for="inputLanguage" class="form-label">Language</label>
+                <input type="text" class="form-control" id="inputLanguage" required>
+                <div class="invalid-feedback">Please select Language.</div>
+            </div>
+            <div class="col-md-3">
+                <label for="inputPublicationDate" class="form-label">Publication Date</label>
+                <input type="text" class="form-control" id="inputPublicationDate">
+                <div class="invalid-feedback">Please select Publication Date.</div>
+            </div>
+            <div class="col-md-3">
+                <label for="inputPublisher" class="form-label">Publisher</label>
+                <input type="text" class="form-control" id="inputPublisher">
+                <div class="invalid-feedback">Please enter Publisher.</div>
+            </div>
+            <div class="col-md-3">
+                <label for="inputPrice" class="form-label">Price</label>
+                <input type="text" class="form-control" id="inputPrice" required>
+                <div class="invalid-feedback">Please enter Price.</div>
+            </div>
+            <div class="col-md-3">
+                <label for="inputDiscount" class="form-label">Discount</label>
+                <input type="text" class="form-control" id="inputDiscount" required maxlength="3">
+                <div class="invalid-feedback">Please enter Discount.</div>
+            </div>
+            <div class="col-md-6">
+                <label for="inputDescription" class="form-label">Description</label>
+                <input type="text" class="form-control" id="inputDescription">
+                <div class="invalid-feedback">Please enter Description.</div>
+            </div>
+            <div class="col-md-6">
+                <label for="inputTags" class="form-label">Tags</label>
+                <input type="text" class="form-control" id="inputTags">
+                <div class="invalid-feedback">Please enter Tags.</div>
+            </div>
+            <div class="col-md-3">
+                <label for="inputPublicationDate" class="form-label">Upload Images of Book</label>
+                <input class="form-control" type="file" id="formFile" required>
+                @* <label for="" id="image-input" class="btn btn-primary">Add Image</label> *@
+                <div class="invalid-feedback">Please Upload Images of Book.</div>
+            </div>
+            <div class="col-12">
+                <div class="form-check form-switch">
+                    <label class="form-check-label" for="inputAvailability">Availability</label>
+                    <input class="form-check-input" type="checkbox" id="inputAvailability">
+                </div>
+                <div id="imgEditor"></div>
+            </div>
+            <div class="text-center">
+                <button type="button" class="btn btn-custom" id="SaveBookBtn">Submit</button>
+                <button type="reset" class="btn btn-secondary">Reset</button>
+            </div>
+        </form><!-- End Multi Columns Form -->
+
+    </div>
+</div>
+@section Scripts{
+    <script>
+        $("#SaveBookBtn").click(function () {
+            // Create a FormData object
+            //var formData = new FormData();
+            var checkboxValue = $('#inputAvailability').is(':checked') ? 1 : 0;
+            var file = $('#formFile')[0].files[0]
+            var formData = new FormData($(".saveBookForm")[0]);// Assuming you have a file input element with id '
+            formData.append('inputTitleOfBook', $("#inputTitleOfBook").val());
+            formData.append('ddlAuthor', $("#ddlAuthor").val());
+            formData.append('inputGenre', $("#inputGenre").val());
+            formData.append('inputLanguage', $("#inputLanguage").val());
+            formData.append('inputPublicationDate', $("#inputPublicationDate").val());
+            formData.append('inputPublisher', $("#inputPublisher").val());
+            formData.append('inputPrice', $("#inputPrice").val());
+            formData.append('inputDiscount', $("#inputDiscount").val());
+            //formData.append('inputDiscount', $("#inputDiscount").val());
+            formData.append('formFile', file);
+            formData.append('inputAvailability', checkboxValue);
+            // Make AJAX request
+            $.ajax({
+                url: SiteUrl + 'Master/SaveBook',
+                type: 'POST',
+                data: formData,
+                processData: false, // Don't process the data
+                contentType: false, // Don't set content type (let jQuery do it automatically)
+                success: function (response) {
+                    // Handle successful response from server
+                    console.log('Success:', response);
+                },
+                error: function (xhr, status, error) {
+                    // Handle error
+                    console.error('Error:', error);
+                }
+            });
+        });
+    </script>
+}

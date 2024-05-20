@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Authentication.Controllers.AccountController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Account/Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authenticationRequest",
+        "Type": "View_Models.AuthenticationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

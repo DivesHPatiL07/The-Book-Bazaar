@@ -1,0 +1,1030 @@
+D:\Book Store Project\Book Store WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Book Store Project\Book Store WebApp\bin\Debug\net6.0\appsettings.json
+D:\Book Store Project\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.staticwebassets.runtime.json
+D:\Book Store Project\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.exe
+D:\Book Store Project\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.deps.json
+D:\Book Store Project\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.runtimeconfig.json
+D:\Book Store Project\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.dll
+D:\Book Store Project\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.pdb
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfoInputs.cache
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfo.cs
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.CoreCompileInputs.cache
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cache
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cs
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.Book_Store_WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.Book_Store_WebApp.props
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store_WebApp.props
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Book_Store_WebApp.props
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\scopedcss\bundle\Book_Store_WebApp.styles.css
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\scopedcss\projectbundle\Book_Store_WebApp.bundle.scp.css
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.dll
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\refint\Book_Store_WebApp.dll
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.pdb
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.genruntimeconfig.cache
+D:\Book Store Project\Book Store WebApp\obj\Debug\net6.0\ref\Book_Store_WebApp.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\appsettings.json
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.staticwebassets.runtime.json
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.exe
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.deps.json
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.runtimeconfig.json
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.pdb
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Humanizer.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\MessagePack.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\NuGet.Common.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Book Store Project\Demo\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.AssemblyReference.cache
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfoInputs.cache
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfo.cs
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.CoreCompileInputs.cache
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cache
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cs
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.Book_Store_WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.Book_Store_WebApp.props
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store_WebApp.props
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Book_Store_WebApp.props
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\scopedcss\bundle\Book_Store_WebApp.styles.css
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\scopedcss\projectbundle\Book_Store_WebApp.bundle.scp.css
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.CopyComplete
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.dll
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\refint\Book_Store_WebApp.dll
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.pdb
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.genruntimeconfig.cache
+D:\Book Store Project\Demo\Book Store WebApp\obj\Debug\net6.0\ref\Book_Store_WebApp.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\appsettings.json
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.staticwebassets.runtime.json
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.exe
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.deps.json
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.runtimeconfig.json
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.pdb
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\MessagePack.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Common.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.AssemblyReference.cache
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfoInputs.cache
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfo.cs
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.CoreCompileInputs.cache
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cache
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cs
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.Book_Store_WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.Book_Store_WebApp.props
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store_WebApp.props
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Book_Store_WebApp.props
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\scopedcss\bundle\Book_Store_WebApp.styles.css
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\scopedcss\projectbundle\Book_Store_WebApp.bundle.scp.css
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.CopyComplete
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.dll
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\refint\Book_Store_WebApp.dll
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.pdb
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.genruntimeconfig.cache
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\ref\Book_Store_WebApp.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\WebApp_Common_Helper.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\WebApp_Common_Helper.pdb
+C:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout_Account.cshtml.rz.scp.css
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Dapper.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Data_Models.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\EntityBase.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\View_Models.dll
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\EntityBase.pdb
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Data_Models.pdb
+C:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\View_Models.pdb
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\appsettings.json
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.staticwebassets.runtime.json
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.exe
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.deps.json
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.runtimeconfig.json
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.pdb
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Dapper.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Humanizer.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\MessagePack.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Common.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Data_Models.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\EntityBase.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\View_Models.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\WebApp_Common_Helper.dll
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\EntityBase.pdb
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\WebApp_Common_Helper.pdb
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\Data_Models.pdb
+D:\Divesh dev_Copy\Book Store WebApp\bin\Debug\net6.0\View_Models.pdb
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.AssemblyReference.cache
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfoInputs.cache
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfo.cs
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.CoreCompileInputs.cache
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cache
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cs
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.Book_Store_WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.Book_Store_WebApp.props
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store_WebApp.props
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Book_Store_WebApp.props
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout_Account.cshtml.rz.scp.css
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\scopedcss\bundle\Book_Store_WebApp.styles.css
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\scopedcss\projectbundle\Book_Store_WebApp.bundle.scp.css
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Sto.F432B555.Up2Date
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.dll
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\refint\Book_Store_WebApp.dll
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.pdb
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.genruntimeconfig.cache
+D:\Divesh dev_Copy\Book Store WebApp\obj\Debug\net6.0\ref\Book_Store_WebApp.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.staticwebassets.runtime.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.exe
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.deps.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.runtimeconfig.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Book_Store_WebApp.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Dapper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Data_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\EntityBase.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\View_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\WebApp_Common_Helper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\EntityBase.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\WebApp_Common_Helper.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\Data_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\bin\Debug\net6.0\View_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.AssemblyReference.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfoInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.AssemblyInfo.cs
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.RazorAssemblyInfo.cs
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.sourcelink.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.Book_Store_WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.Book_Store_WebApp.props
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store_WebApp.props
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Book_Store_WebApp.props
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout_Account.cshtml.rz.scp.css
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\scopedcss\bundle\Book_Store_WebApp.styles.css
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\scopedcss\projectbundle\Book_Store_WebApp.bundle.scp.css
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Sto.F432B555.Up2Date
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\refint\Book_Store_WebApp.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\Book_Store_WebApp.genruntimeconfig.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Book Store WebApp\obj\Debug\net6.0\ref\Book_Store_WebApp.dll

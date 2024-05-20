@@ -1,18 +1,58 @@
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\bin\Debug\net6.0\DbHelper.deps.json
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\bin\Debug\net6.0\DbHelper.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\bin\Debug\net6.0\DbHelper.pdb
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\bin\Debug\net6.0\EntityBase.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\bin\Debug\net6.0\JwtAuthenticationManager.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\bin\Debug\net6.0\EntityBase.pdb
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\bin\Debug\net6.0\JwtAuthenticationManager.pdb
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\DbHelper.csproj.AssemblyReference.cache
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\DbHelper.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\DbHelper.AssemblyInfoInputs.cache
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\DbHelper.AssemblyInfo.cs
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\DbHelper.csproj.CoreCompileInputs.cache
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\DbHelper.sourcelink.json
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\DbHelper.csproj.CopyComplete
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\DbHelper.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\refint\DbHelper.dll
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\DbHelper.pdb
-C:\Users\Divesh Patil\Documents\GitHub\BookStore\DbHelper\obj\Debug\net6.0\ref\DbHelper.dll
+C:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\DbHelper.deps.json
+C:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\DbHelper.dll
+C:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\DbHelper.pdb
+C:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\Data_Models.dll
+C:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\EntityBase.dll
+C:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\Data_Models.pdb
+C:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\EntityBase.pdb
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.csproj.AssemblyReference.cache
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.AssemblyInfoInputs.cache
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.AssemblyInfo.cs
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.csproj.CoreCompileInputs.cache
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.csproj.CopyComplete
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.dll
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\refint\DbHelper.dll
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.pdb
+C:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\ref\DbHelper.dll
+C:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\View_Models.dll
+C:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\View_Models.pdb
+D:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\DbHelper.deps.json
+D:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\DbHelper.dll
+D:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\DbHelper.pdb
+D:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\Data_Models.dll
+D:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\EntityBase.dll
+D:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\View_Models.dll
+D:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\Data_Models.pdb
+D:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\EntityBase.pdb
+D:\Divesh dev_Copy\DbHelper\bin\Debug\net6.0\View_Models.pdb
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.csproj.AssemblyReference.cache
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.AssemblyInfoInputs.cache
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.AssemblyInfo.cs
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.csproj.CoreCompileInputs.cache
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.csproj.Up2Date
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.dll
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\refint\DbHelper.dll
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\DbHelper.pdb
+D:\Divesh dev_Copy\DbHelper\obj\Debug\net6.0\ref\DbHelper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\bin\Debug\net6.0\DbHelper.deps.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\bin\Debug\net6.0\DbHelper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\bin\Debug\net6.0\DbHelper.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\bin\Debug\net6.0\Data_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\bin\Debug\net6.0\EntityBase.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\bin\Debug\net6.0\View_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\bin\Debug\net6.0\Data_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\bin\Debug\net6.0\EntityBase.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\bin\Debug\net6.0\View_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\DbHelper.csproj.AssemblyReference.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\DbHelper.AssemblyInfoInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\DbHelper.AssemblyInfo.cs
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\DbHelper.csproj.CoreCompileInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\DbHelper.sourcelink.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\DbHelper.csproj.Up2Date
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\DbHelper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\refint\DbHelper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\DbHelper.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\DbHelper\obj\Debug\net6.0\ref\DbHelper.dll

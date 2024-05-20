@@ -1,18 +1,19 @@
-﻿using EntityBase;
-using JwtAuthenticationManager.Models;
-using Microsoft.Data.SqlClient;
+﻿using Data_Models;
+using EntityBase;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
+using View_Models;
 
 namespace JwtAuthenticationManager
 {
-    public class JwtTokenHandler 
+    public class JwtTokenHandler : DbHandlerBase
     {
         public const string JWT_SECURITY_KEY = "yPkCqn4kSWLtaJwXvN2jGzpQRyTZ3gdXkt7FeBJP";
         private const int JWT_TOKEN_VALIDITY_MINS = 20;
@@ -27,18 +28,18 @@ namespace JwtAuthenticationManager
                 return null;
 
             /*validation*/
-            using (var connection = new SqlConnection("Server=LAPTOP-GSDBM2F1\\SQLEXPRESS; database=OnlineBookStore; trusted_connection=true;"))
+            using (var connection = GetConnection())
             {
-                connection.Open();
+                //connection.Open();
                 // Use the connection here
-                var userAccount = context.Users.Where(x => x.Username == authenticationRequest.UserName && x.Password == authenticationRequest.Password).FirstOrDefault();
-                if (userAccount == null) return null;
+                //var userAccount = context.SY_TBL_USERACCOUNT.Where(x => x.USERNAME == authenticationRequest.UserName && x.PASSWORD == authenticationRequest.Password).FirstOrDefault();
+                ////connection.Close();
+                //if (userAccount == null) return null;
                 var tokenExpireTimeStamp = DateTime.Now.AddMinutes(JWT_TOKEN_VALIDITY_MINS);
                 var tokenKey = Encoding.ASCII.GetBytes(JWT_SECURITY_KEY);
                 var claimsIdentity = new ClaimsIdentity(new List<Claim>
             {
-                new Claim(JwtRegisteredClaimNames.Name, authenticationRequest.UserName),
-                new Claim(ClaimTypes.Role, userAccount.Role)
+                new Claim(JwtRegisteredClaimNames.Name, authenticationRequest.UserName)
             });
 
                 var signingCredentials = new SigningCredentials(
@@ -63,8 +64,8 @@ namespace JwtAuthenticationManager
                 };
             } // The connection is automatically closed and disposed of at the end of the using block
 
-            
-            
+
+
         }
     }
 }

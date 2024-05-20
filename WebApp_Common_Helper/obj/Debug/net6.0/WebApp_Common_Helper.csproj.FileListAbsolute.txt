@@ -1,0 +1,34 @@
+C:\Divesh dev_Copy\WebApp_Common_Helper\bin\Debug\net6.0\WebApp_Common_Helper.deps.json
+C:\Divesh dev_Copy\WebApp_Common_Helper\bin\Debug\net6.0\WebApp_Common_Helper.dll
+C:\Divesh dev_Copy\WebApp_Common_Helper\bin\Debug\net6.0\WebApp_Common_Helper.pdb
+C:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.AssemblyInfoInputs.cache
+C:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.AssemblyInfo.cs
+C:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.csproj.CoreCompileInputs.cache
+C:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.dll
+C:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\refint\WebApp_Common_Helper.dll
+C:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.pdb
+C:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\ref\WebApp_Common_Helper.dll
+D:\Divesh dev_Copy\WebApp_Common_Helper\bin\Debug\net6.0\WebApp_Common_Helper.deps.json
+D:\Divesh dev_Copy\WebApp_Common_Helper\bin\Debug\net6.0\WebApp_Common_Helper.dll
+D:\Divesh dev_Copy\WebApp_Common_Helper\bin\Debug\net6.0\WebApp_Common_Helper.pdb
+D:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.AssemblyInfoInputs.cache
+D:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.AssemblyInfo.cs
+D:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.csproj.CoreCompileInputs.cache
+D:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.dll
+D:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\refint\WebApp_Common_Helper.dll
+D:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.pdb
+D:\Divesh dev_Copy\WebApp_Common_Helper\obj\Debug\net6.0\ref\WebApp_Common_Helper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\bin\Debug\net6.0\WebApp_Common_Helper.deps.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\bin\Debug\net6.0\WebApp_Common_Helper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\bin\Debug\net6.0\WebApp_Common_Helper.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.AssemblyInfoInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.AssemblyInfo.cs
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.csproj.CoreCompileInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.sourcelink.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\obj\Debug\net6.0\refint\WebApp_Common_Helper.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\obj\Debug\net6.0\WebApp_Common_Helper.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\WebApp_Common_Helper\obj\Debug\net6.0\ref\WebApp_Common_Helper.dll

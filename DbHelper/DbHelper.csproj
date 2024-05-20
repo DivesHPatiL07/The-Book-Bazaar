@@ -7,8 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Data_Models\Data_Models.csproj" />
     <ProjectReference Include="..\EntityBase\EntityBase.csproj" />
-    <ProjectReference Include="..\JwtAuthenticationManager\JwtAuthenticationManager.csproj" />
+    <ProjectReference Include="..\View_Models\View_Models.csproj" />
   </ItemGroup>
 
 </Project>

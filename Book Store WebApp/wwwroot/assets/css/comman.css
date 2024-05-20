@@ -1,0 +1,37 @@
+﻿.fht-cell {
+    width: 125px;
+}
+
+#listBtns > .btn {
+    margin: 3px !important;
+    padding: 1px 6px;
+}
+
+    #listBtns > .btn :hover {
+        color: #fff;
+        text-shadow: 0 0 5px black;
+    }
+/*.btn-custom {
+    color: #fff;
+    background-color: #6366f1;
+    border-color: #6366f1;
+}*/
+.btn-custom {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #6366f1;
+    --bs-btn-border-color: #6366f1;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #5153ce;
+    --bs-btn-hover-border-color: #6366f1;
+    --bs-btn-focus-shadow-rgb: 60, 153, 110;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #6366f1;
+    --bs-btn-active-border-color: #5659df;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #6366f1;
+    --bs-btn-disabled-border-color: #6366f1;
+}
+.datatable-Header > th {
+    background-color: #9da4de;
+}

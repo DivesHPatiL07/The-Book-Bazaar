@@ -1,0 +1,34 @@
+C:\Divesh dev_Copy\Data_Models\bin\Debug\net6.0\Data_Models.deps.json
+C:\Divesh dev_Copy\Data_Models\bin\Debug\net6.0\Data_Models.dll
+C:\Divesh dev_Copy\Data_Models\bin\Debug\net6.0\Data_Models.pdb
+C:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.AssemblyInfoInputs.cache
+C:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.AssemblyInfo.cs
+C:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.csproj.CoreCompileInputs.cache
+C:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.dll
+C:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\refint\Data_Models.dll
+C:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.pdb
+C:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\ref\Data_Models.dll
+D:\Divesh dev_Copy\Data_Models\bin\Debug\net6.0\Data_Models.deps.json
+D:\Divesh dev_Copy\Data_Models\bin\Debug\net6.0\Data_Models.dll
+D:\Divesh dev_Copy\Data_Models\bin\Debug\net6.0\Data_Models.pdb
+D:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.AssemblyInfoInputs.cache
+D:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.AssemblyInfo.cs
+D:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.csproj.CoreCompileInputs.cache
+D:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.dll
+D:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\refint\Data_Models.dll
+D:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\Data_Models.pdb
+D:\Divesh dev_Copy\Data_Models\obj\Debug\net6.0\ref\Data_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\bin\Debug\net6.0\Data_Models.deps.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\bin\Debug\net6.0\Data_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\bin\Debug\net6.0\Data_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\obj\Debug\net6.0\Data_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\obj\Debug\net6.0\Data_Models.AssemblyInfoInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\obj\Debug\net6.0\Data_Models.AssemblyInfo.cs
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\obj\Debug\net6.0\Data_Models.csproj.CoreCompileInputs.cache
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\obj\Debug\net6.0\Data_Models.sourcelink.json
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\obj\Debug\net6.0\Data_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\obj\Debug\net6.0\refint\Data_Models.dll
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\obj\Debug\net6.0\Data_Models.pdb
+C:\Users\Divesh Patil\Desktop\Projects\The Book Bazaar\Data_Models\obj\Debug\net6.0\ref\Data_Models.dll

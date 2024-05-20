@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\ApiGateWay\\ApiGateWay.csproj": {}
+    "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\ApiGateWay\\ApiGateWay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\ApiGateWay\\ApiGateWay.csproj": {
+    "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\ApiGateWay\\ApiGateWay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\ApiGateWay\\ApiGateWay.csproj",
+        "projectUniqueName": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\ApiGateWay\\ApiGateWay.csproj",
         "projectName": "ApiGateWay",
-        "projectPath": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\ApiGateWay\\ApiGateWay.csproj",
+        "projectPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\ApiGateWay\\ApiGateWay.csproj",
         "packagesPath": "C:\\Users\\Divesh Patil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Divesh Patil\\Documents\\GitHub\\BookStore\\ApiGateWay\\obj\\",
+        "outputPath": "C:\\Users\\Divesh Patil\\Desktop\\Projects\\The Book Bazaar\\ApiGateWay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Divesh Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -42,7 +47,7 @@
           "dependencies": {
             "Ocelot": {
               "target": "Package",
-              "version": "[22.0.0, )"
+              "version": "[22.0.1, )"
             }
           },
           "imports": [
@@ -64,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
